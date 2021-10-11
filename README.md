@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Srini. I currently work as manage Tech Service Delivery for Ecommerce Operations for a large retailer  
+- 👋 Hi, I’m Srini. I currently work as manage Tech Service Delivery of my company (a large Indian IT Service Provider) in Ecommerce Operations for a large retailer  
 - :tiger: I specialize in Application Support and Maintenance, Handover/Takeover if Technology Operations,  Peak Season Support
 - 👀 I’m interested in Omnichannel Commerce, ConnectedSelling
 - 🌱 I’m currently learning how to lead DevOps teams
